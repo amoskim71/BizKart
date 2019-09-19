@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">KotlinDemo</string>
+    <string name="app_name">BizKart</string>
+    <string name="activity_main_bottom_screen_logs">First</string>
+    <string name="activity_main_bottom_screen_progress">Second</string>
+    <string name="activity_main_bottom_screen_profile">Third</string>
+    <string name="mn_hot_caption">HOT</string>
+    <string name="categories">Category</string>
+    <string name="shopbag">Bag</string>
 </resources>

@@ -18,7 +18,7 @@ class HomePage : AppCompatActivity()
                 // 3
                 .beginTransaction()
                 // 4
-                .add(R.id.rootlayout, homefrag, "homefragment")
+                .add(R.id.content, homefrag, "homefragment")
                 // 5
                 .commit()
         }
